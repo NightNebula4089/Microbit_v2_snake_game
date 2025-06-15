@@ -1,0 +1,6 @@
+{
+    "cortex-debug.armToolchainPath": "${command:comp2300.comp2300path}/arm-none-eabi/bin",
+    "cortex-debug.enableTelemetry": false,
+    "cortex-debug.openocdPath": "${command:comp2300.comp2300path}/openocd/bin/openocd",
+    "cortex-debug.variableUseNaturalFormat": false
+}
